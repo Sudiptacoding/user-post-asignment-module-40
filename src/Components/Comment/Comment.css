@@ -1,0 +1,27 @@
+.comment_Box {
+    width: 49%;
+    border: 1px solid lightgray;
+
+
+}
+
+.s_box {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.s_box img {
+    height: 125px;
+    width: 141px;
+}
+
+.sp {
+    padding-left: 10px;
+}
+
+.sp h6 {
+    padding-top: 55px;
+    font-family: revert;
+    color: red;
+}

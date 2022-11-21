@@ -1,0 +1,16 @@
+.box {
+    width: 400px;
+    margin: 10px;
+    border: 1px solid gray;
+    box-shadow: 3px 8px 20px -4px grey;
+    border-radius: 4px;
+}
+
+.css-1ri6ub7-MuiPaper-root-MuiCard-root {
+    max-width: 400px !important;
+}
+
+.more__link {
+    color: #5c5555;
+    font-weight: 800;
+}

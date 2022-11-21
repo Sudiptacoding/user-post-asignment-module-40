@@ -1,0 +1,40 @@
+.comment__box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 1rem;
+}
+
+.see__user {
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 5px;
+    flex-wrap: wrap;
+    width: 100%;
+
+}
+
+.see__detles {
+    position: relative;
+    top: 57px;
+    line-height: 35px;
+}
+
+.see__detles .profile__img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+.see__user span {
+    background-color: #ffe0ad;
+    padding: 2px 9px;
+    border-radius: 3px;
+}

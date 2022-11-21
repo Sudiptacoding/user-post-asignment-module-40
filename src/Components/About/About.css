@@ -1,0 +1,15 @@
+.about__container {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    background-image: linear-gradient(45deg, black, transparent);
+    color: white;
+    font-size: 31px;
+    font-style: italic;
+    text-shadow: 10px 1px 1px lightcoral;
+}
